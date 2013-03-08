@@ -12,7 +12,7 @@ files = [
   MOCHA_ADAPTER,
   ANGULAR_SCENARIO,
   ANGULAR_SCENARIO_ADAPTER,
-  {pattern: 'src/test/*.coffee'}
+  {pattern: 'test/*.coffee'}
 ];
 
 
